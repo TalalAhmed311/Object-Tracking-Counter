@@ -6,7 +6,7 @@
 
    `https://github.com/TalalAhmed311/Object-Tracking-Counter`
    
-2) Clone the Yolov5 Repository this Object-Tracking-Counter Fiolder
+2) Clone the Yolov5 Repository this Object-Tracking-Counter Folder
 
    `!git clone https://github.com/ultralytics/yolov5`
 
